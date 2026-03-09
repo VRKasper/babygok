@@ -1,0 +1,48 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model Baby {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  name    String
+  dueDate DateTime
+  slug    String   @unique
+
+  // Clerk user ID of the parent
+  userId String
+
+  // Selected question types (stored as JSON array of question keys)
+  questions Json @default("[]")
+
+  // Relations
+  guesses Guess[]
+
+  @@index([userId])
+  @@index([slug])
+}
+
+model Guess {
+  id        String   @id @default(cuid())
+  createdAt DateTime @default(now())
+
+  // Guest info
+  guestName  String
+  guestEmail String?
+
+  // All answers stored as JSON object { questionKey: answer }
+  answers Json
+
+  // Relations
+  baby   Baby   @relation(fields: [babyId], references: [id], onDelete: Cascade)
+  babyId String
+
+  @@index([babyId])
+}

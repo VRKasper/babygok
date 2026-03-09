@@ -1,0 +1,113 @@
+{
+  "common": {
+    "appName": "Baby Gok",
+    "tagline": "Guess along about the new baby",
+    "signIn": "Sign in",
+    "signUp": "Sign up",
+    "signOut": "Sign out",
+    "dashboard": "Dashboard",
+    "save": "Save",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "loading": "Loading\u2026",
+    "error": "Something went wrong",
+    "back": "Back",
+    "share": "Share",
+    "copyLink": "Copy link",
+    "linkCopied": "Link copied!"
+  },
+  "landing": {
+    "hero": {
+      "title": "Who will guess it right?",
+      "subtitle": "Let family and friends guess about your baby. Gender, weight, eye color and more!",
+      "cta": "Get started for free",
+      "secondaryCta": "See an example"
+    },
+    "features": {
+      "title": "How does it work?",
+      "create": {
+        "title": "Create your page",
+        "description": "Choose which questions to ask and personalize your page"
+      },
+      "share": {
+        "title": "Share the link",
+        "description": "Send a unique link to family and friends"
+      },
+      "guess": {
+        "title": "Let them guess",
+        "description": "Everyone fills in their predictions"
+      },
+      "results": {
+        "title": "View the results",
+        "description": "See beautiful charts of all predictions"
+      }
+    },
+    "social": {
+      "title": "Join thousands of expecting parents",
+      "description": "Baby Gok makes waiting for your baby even more fun"
+    }
+  },
+  "dashboard": {
+    "welcome": "Welcome",
+    "noBaby": "You haven't created a baby page yet",
+    "createBaby": "Create your baby page",
+    "babyName": "Baby's name (or nickname)",
+    "dueDate": "Due date",
+    "selectQuestions": "Select your questions",
+    "shareLink": "Share this link",
+    "responses": "Responses",
+    "noResponses": "No responses received yet",
+    "viewResults": "View results"
+  },
+  "questions": {
+    "gender": "Gender",
+    "genderDesc": "Will it be a boy or a girl?",
+    "weight": "Weight",
+    "weightDesc": "How much will the baby weigh?",
+    "length": "Length",
+    "lengthDesc": "How long will the baby be?",
+    "eyeColor": "Eye color",
+    "eyeColorDesc": "What eye color will the baby have?",
+    "hairColor": "Hair color",
+    "hairColorDesc": "What hair color will the baby have?",
+    "birthDate": "Birth date",
+    "birthDateDesc": "When will the baby arrive?",
+    "birthTime": "Birth time",
+    "birthTimeDesc": "What time will the baby be born?",
+    "name": "Name",
+    "nameDesc": "What will the baby be named?",
+    "looksLike": "Looks like",
+    "looksLikeDesc": "Who will the baby look like?"
+  },
+  "guess": {
+    "title": "Make your prediction",
+    "subtitle": "for the baby of",
+    "yourName": "Your name",
+    "yourEmail": "Your email (optional)",
+    "submitGuess": "Submit my prediction",
+    "thankYou": "Thank you for your prediction!",
+    "alreadySubmitted": "You have already submitted a prediction",
+    "options": {
+      "boy": "Boy",
+      "girl": "Girl",
+      "blue": "Blue",
+      "brown": "Brown",
+      "green": "Green",
+      "hazel": "Hazel",
+      "gray": "Gray",
+      "blonde": "Blonde",
+      "brown_hair": "Brown",
+      "black": "Black",
+      "red": "Red",
+      "mother": "Mom",
+      "father": "Dad"
+    }
+  },
+  "results": {
+    "title": "Results",
+    "totalGuesses": "Total predictions",
+    "popularChoice": "Most popular choice",
+    "averageWeight": "Average weight",
+    "averageLength": "Average length"
+  }
+}

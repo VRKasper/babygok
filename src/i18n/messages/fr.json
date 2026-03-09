@@ -1,0 +1,113 @@
+{
+  "common": {
+    "appName": "Baby Gok",
+    "tagline": "Devinez ensemble pour le nouveau bébé",
+    "signIn": "Se connecter",
+    "signUp": "S'inscrire",
+    "signOut": "Se déconnecter",
+    "dashboard": "Tableau de bord",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "submit": "Envoyer",
+    "loading": "Chargement\u2026",
+    "error": "Quelque chose s'est mal passé",
+    "back": "Retour",
+    "share": "Partager",
+    "copyLink": "Copier le lien",
+    "linkCopied": "Lien copié !"
+  },
+  "landing": {
+    "hero": {
+      "title": "Qui devinera juste ?",
+      "subtitle": "Laissez famille et amis deviner pour votre bébé. Sexe, poids, couleur des yeux et plus !",
+      "cta": "Commencer gratuitement",
+      "secondaryCta": "Voir un exemple"
+    },
+    "features": {
+      "title": "Comment ça marche ?",
+      "create": {
+        "title": "Créez votre page",
+        "description": "Choisissez les questions à poser et personnalisez votre page"
+      },
+      "share": {
+        "title": "Partagez le lien",
+        "description": "Envoyez un lien unique à la famille et aux amis"
+      },
+      "guess": {
+        "title": "Laissez-les deviner",
+        "description": "Chacun remplit ses prédictions"
+      },
+      "results": {
+        "title": "Voir les résultats",
+        "description": "Découvrez de beaux graphiques de toutes les prédictions"
+      }
+    },
+    "social": {
+      "title": "Rejoignez des milliers de futurs parents",
+      "description": "Baby Gok rend l'attente de votre bébé encore plus amusante"
+    }
+  },
+  "dashboard": {
+    "welcome": "Bienvenue",
+    "noBaby": "Vous n'avez pas encore créé de page bébé",
+    "createBaby": "Créer votre page bébé",
+    "babyName": "Nom du bébé (ou surnom)",
+    "dueDate": "Date prévue",
+    "selectQuestions": "Sélectionnez vos questions",
+    "shareLink": "Partagez ce lien",
+    "responses": "Réponses",
+    "noResponses": "Aucune réponse reçue",
+    "viewResults": "Voir les résultats"
+  },
+  "questions": {
+    "gender": "Sexe",
+    "genderDesc": "Ce sera un garçon ou une fille ?",
+    "weight": "Poids",
+    "weightDesc": "Combien pèsera le bébé ?",
+    "length": "Taille",
+    "lengthDesc": "Quelle sera la taille du bébé ?",
+    "eyeColor": "Couleur des yeux",
+    "eyeColorDesc": "Quelle couleur d'yeux aura le bébé ?",
+    "hairColor": "Couleur des cheveux",
+    "hairColorDesc": "Quelle couleur de cheveux aura le bébé ?",
+    "birthDate": "Date de naissance",
+    "birthDateDesc": "Quand le bébé arrivera-t-il ?",
+    "birthTime": "Heure de naissance",
+    "birthTimeDesc": "À quelle heure le bébé naîtra-t-il ?",
+    "name": "Prénom",
+    "nameDesc": "Comment s'appellera le bébé ?",
+    "looksLike": "Ressemble à",
+    "looksLikeDesc": "À qui ressemblera le bébé ?"
+  },
+  "guess": {
+    "title": "Faites votre prédiction",
+    "subtitle": "pour le bébé de",
+    "yourName": "Votre nom",
+    "yourEmail": "Votre email (optionnel)",
+    "submitGuess": "Envoyer ma prédiction",
+    "thankYou": "Merci pour votre prédiction !",
+    "alreadySubmitted": "Vous avez déjà soumis une prédiction",
+    "options": {
+      "boy": "Garçon",
+      "girl": "Fille",
+      "blue": "Bleu",
+      "brown": "Marron",
+      "green": "Vert",
+      "hazel": "Noisette",
+      "gray": "Gris",
+      "blonde": "Blond",
+      "brown_hair": "Brun",
+      "black": "Noir",
+      "red": "Roux",
+      "mother": "Maman",
+      "father": "Papa"
+    }
+  },
+  "results": {
+    "title": "Résultats",
+    "totalGuesses": "Total des prédictions",
+    "popularChoice": "Choix le plus populaire",
+    "averageWeight": "Poids moyen",
+    "averageLength": "Taille moyenne"
+  }
+}

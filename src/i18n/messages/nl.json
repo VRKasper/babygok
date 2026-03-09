@@ -1,0 +1,113 @@
+{
+  "common": {
+    "appName": "Baby Gok",
+    "tagline": "Raad mee over de nieuwe baby",
+    "signIn": "Inloggen",
+    "signUp": "Registreren",
+    "signOut": "Uitloggen",
+    "dashboard": "Dashboard",
+    "save": "Opslaan",
+    "cancel": "Annuleren",
+    "submit": "Verzenden",
+    "loading": "Laden\u2026",
+    "error": "Er is iets misgegaan",
+    "back": "Terug",
+    "share": "Delen",
+    "copyLink": "Link kopiëren",
+    "linkCopied": "Link gekopieerd!"
+  },
+  "landing": {
+    "hero": {
+      "title": "Wie raadt het goed?",
+      "subtitle": "Laat familie en vrienden raden over jullie baby. Geslacht, gewicht, oogkleur en meer!",
+      "cta": "Start nu gratis",
+      "secondaryCta": "Bekijk een voorbeeld"
+    },
+    "features": {
+      "title": "Hoe werkt het?",
+      "create": {
+        "title": "Maak je pagina",
+        "description": "Kies welke vragen je wilt stellen en personaliseer je pagina"
+      },
+      "share": {
+        "title": "Deel de link",
+        "description": "Stuur een unieke link naar familie en vrienden"
+      },
+      "guess": {
+        "title": "Laat ze raden",
+        "description": "Iedereen vult hun voorspellingen in"
+      },
+      "results": {
+        "title": "Bekijk de resultaten",
+        "description": "Zie prachtige grafieken van alle voorspellingen"
+      }
+    },
+    "social": {
+      "title": "Sluit je aan bij duizenden aanstaande ouders",
+      "description": "Baby Gok maakt het wachten op je baby nog leuker"
+    }
+  },
+  "dashboard": {
+    "welcome": "Welkom",
+    "noBaby": "Je hebt nog geen baby-pagina aangemaakt",
+    "createBaby": "Maak je baby-pagina",
+    "babyName": "Baby's naam (of bijnaam)",
+    "dueDate": "Uitgerekende datum",
+    "selectQuestions": "Kies je vragen",
+    "shareLink": "Deel deze link",
+    "responses": "Reacties",
+    "noResponses": "Nog geen reacties ontvangen",
+    "viewResults": "Bekijk resultaten"
+  },
+  "questions": {
+    "gender": "Geslacht",
+    "genderDesc": "Wordt het een jongen of een meisje?",
+    "weight": "Gewicht",
+    "weightDesc": "Hoeveel gaat de baby wegen?",
+    "length": "Lengte",
+    "lengthDesc": "Hoe lang wordt de baby?",
+    "eyeColor": "Oogkleur",
+    "eyeColorDesc": "Welke oogkleur krijgt de baby?",
+    "hairColor": "Haarkleur",
+    "hairColorDesc": "Welke haarkleur krijgt de baby?",
+    "birthDate": "Geboortedatum",
+    "birthDateDesc": "Wanneer komt de baby?",
+    "birthTime": "Geboortetijd",
+    "birthTimeDesc": "Hoe laat wordt de baby geboren?",
+    "name": "Naam",
+    "nameDesc": "Hoe gaat de baby heten?",
+    "looksLike": "Lijkt op",
+    "looksLikeDesc": "Op wie gaat de baby lijken?"
+  },
+  "guess": {
+    "title": "Doe je voorspelling",
+    "subtitle": "voor de baby van",
+    "yourName": "Jouw naam",
+    "yourEmail": "Je e-mailadres (optioneel)",
+    "submitGuess": "Verstuur mijn voorspelling",
+    "thankYou": "Bedankt voor je voorspelling!",
+    "alreadySubmitted": "Je hebt al een voorspelling gedaan",
+    "options": {
+      "boy": "Jongen",
+      "girl": "Meisje",
+      "blue": "Blauw",
+      "brown": "Bruin",
+      "green": "Groen",
+      "hazel": "Hazelnoot",
+      "gray": "Grijs",
+      "blonde": "Blond",
+      "brown_hair": "Bruin",
+      "black": "Zwart",
+      "red": "Rood",
+      "mother": "Mama",
+      "father": "Papa"
+    }
+  },
+  "results": {
+    "title": "Resultaten",
+    "totalGuesses": "Totaal aantal voorspellingen",
+    "popularChoice": "Populairste keuze",
+    "averageWeight": "Gemiddeld gewicht",
+    "averageLength": "Gemiddelde lengte"
+  }
+}
